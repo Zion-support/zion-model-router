@@ -1,7 +1,16 @@
-# Zion Model Router Configurator
+# Model Router Configurator
 
-Set cost/latency/quality priorities and traffic mix; get a three-tier routing strategy with gateway-ready JSON config and fallbacks.
+Cost/latency/quality sliders to routing rules — configure smart model routing.
 
 **Live app:** https://ziontechgroup.com/zion-model-router/
 
-Part of the [Zion Tech Group](https://ziontechgroup.com) AI apps network. Sibling apps: [LLM Cost Calculator](https://ziontechgroup.com/zion-llm-cost-calculator/) · [Context Window Planner](https://ziontechgroup.com/zion-context-window-planner/) · [SLA Cost Calculator](https://ziontechgroup.com/zion-sla-cost-calculator/)
+## Features
+- Visual cost/latency/quality trade-off sliders
+- Generates routing rules config
+- Fallback chain design
+
+## Zion App Network
+Part of the [Zion App Network](https://ziontechgroup.com/apps/).
+Related: [LLM Gateway](https://github.com/Zion-support/llm-gateway) · [Model Arena](https://github.com/Zion-support/zion-ai-model-arena) · [AI FinOps](https://github.com/Zion-support/zion-ai-finops) · [Context Window Planner](https://github.com/Zion-support/zion-context-window-planner)
+
+© 2026 Zion Tech Group
